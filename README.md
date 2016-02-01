@@ -1,6 +1,6 @@
 # Link Social plugin for Craft CMS
 
-A Craft Twig plugin that links usernames and hastags in blocks of text.
+A CraftCMS Twig template plugin that links @usernames and hashtags in blocks of text.
 
 ## Installation
 
