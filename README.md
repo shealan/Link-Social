@@ -1,6 +1,6 @@
 # Link Social plugin for Craft CMS
 
-A CraftCMS Twig template plugin that links @usernames and #hashtags in blocks of text.
+A CraftCMS Twig template plugin that links social @usernames and #hashtags in blocks of text.
 
 ## Installation
 
@@ -11,11 +11,11 @@ To install Link Social, follow these steps:
 3. Install plugin in the Craft Control Panel under Settings > Plugins
 4. The plugin folder should be named `linksocial` for Craft to see it.  GitHub recently started appending `-master` (the branch name) to the name of the folder for zip file downloads.
 
-Link Social works on Craft 2.4.x and Craft 2.5.x.
+Link Social is tested on Craft 2.4.x and Craft 2.5.x.
 
 ## Link Social Overview
 
-Linksocial is a super simple plugin to link usernames and hastags in blocks of text. It currently supports Twitter and Instagram.
+Linksocial is a super simple plugin to link usernames and hashtags in blocks of text. It currently supports Twitter and Instagram.
 
 ## Using Link Social
 
